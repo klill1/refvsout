@@ -34,6 +34,7 @@ namespace refvsout
             a *= 5;
             b *= b;
         }
-        
+
+        // https://www.c-sharpcorner.com/UploadFile/ff2f08/ref-vs-out-keywords-in-C-Sharp/
     }
 }
